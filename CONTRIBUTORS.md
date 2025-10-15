@@ -2917,4 +2917,4 @@
 
 - Place: Taiwan, Taipei
 - Bio: A CS student who wants to contribute to open source
-- Github: [Wiilliam Tsou](https://github.com/WilliamTsou)
+- Github: [William Tsou](https://github.com/WilliamTsou)
